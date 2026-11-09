@@ -2,7 +2,7 @@
 
 **Andrey Castel | MGT-661 | November 8, 2026**
 
-A simple machine learning project using scikit-learn's Iris dataset and a Decision Tree classifier to predict flower species from four measurements.
+A machine learning project using scikit-learn's Iris dataset and a Decision Tree classifier to predict flower species from four measurements.
 
 ## Results
 
